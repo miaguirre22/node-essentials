@@ -1,0 +1,8 @@
+### GET ONE product
+GET http://localhost:3000/products/1
+
+### GET ALL products
+GET http://localhost:3000/products
+
+### GET products - query: page and pageSize
+GET http://localhost:3000/products?page=2&pageSize=2
